@@ -1,5 +1,7 @@
 # Replica Builder by NextStepFusion
 
+[![Deploy to Pages](https://github.com/Next-Step-Fusion/replica-builder/actions/workflows/deploy.yml/badge.svg)](https://github.com/Next-Step-Fusion/replica-builder/actions/workflows/deploy.yml)
+
 ## Prebuilt app (./dist)
 
 - A production build is already available in `./dist/` and can be hosted by any static hosting or server (GitHub Pages, Vercel, Cloudflare Pages, Netlify, S3+CloudFront, Nginx, etc.).
