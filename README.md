@@ -1,4 +1,4 @@
-# Replica Builder by NextStepFusion
+# Tokamak Replica Builder by Next Step Fusion
 
 [![Deploy to Pages](https://github.com/Next-Step-Fusion/replica-builder/actions/workflows/deploy.yml/badge.svg)](https://github.com/Next-Step-Fusion/replica-builder/actions/workflows/deploy.yml)
 
