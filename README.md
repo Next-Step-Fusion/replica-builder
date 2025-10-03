@@ -1,5 +1,7 @@
 # Tokamak Replica Builder by Next Step Fusion
 
+<img width="2048" height="1292" alt="image" src="https://github.com/user-attachments/assets/a3e29d4f-c017-4521-b061-e78a58b64da6" />
+
 [![Deploy to Pages](https://github.com/Next-Step-Fusion/replica-builder/actions/workflows/deploy.yml/badge.svg)](https://github.com/Next-Step-Fusion/replica-builder/actions/workflows/deploy.yml)
 
 ## Prebuilt app (./dist)
